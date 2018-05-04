@@ -14,7 +14,7 @@ print(discover)
 
 # 时间戳  格式为年月日时分秒
 
-
+cur_path = os.path.dirname(os.path.realpath(__file__))
 # 测试报告保存地址。+及测试报告名称（加了时间戳）
 reportpath = "D:\\jenj\\workspace\\selenium_pro_02\\sele_02\\report\\"+"report.html"
 # reportpath = "D:\\selenium_project_yutiantian\\report\\"+"report.html"
