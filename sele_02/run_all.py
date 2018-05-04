@@ -16,7 +16,7 @@ print(discover)
 
 
 # 测试报告保存地址。+及测试报告名称（加了时间戳）
-reportpath = "D:\\sele_project_yutiantian\\report\\"+"report.html"
+reportpath = "D:\\jenj\\workspace\\selenium_pro_02\\sele_02\\report"+"report.html"
 # 写入权限
 fp = open(reportpath,"wb")
 
